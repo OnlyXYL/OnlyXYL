@@ -15,13 +15,11 @@
 [![](https://img.shields.io/github/package-json/v/OnlyXYL/widdo)](https://github.com/OnlyXYL)
 
 ### GitHub
-[![](https://img.shields.io/github/forks/OnlyXYL/widdo?style=social)]()
+[![](https://img.shields.io/github/stars/OnlyXYL?affiliations=OWNER&style=social)]()
 
 [![](https://img.shields.io/github/commit-activity/w/OnlyXYL/widdo)](https://github.com/OnlyXYL)
 
 [![](https://img.shields.io/github/commit-status/OnlyXYL/widdo/263.1.1.x/f8bf0bf)]()
-
-[![](https://img.shields.io/badge/dynamic/json?color=yellow&label=stars&prefix=%20&query=%24.data.totalSubs&suffix=stars&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DOnlyXYL)]()
 
 [![](https://img.shields.io/github/v/release/OnlyXYl/widdo?display_name=tag&include_prereleases)]()
 
