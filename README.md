@@ -12,7 +12,7 @@
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/52h2)
 
 ### Dependencies
-[![](https://img.shields.io/depfu/dependencies/github/OnlyXYL/widdo)](https://www.zhihu.com/people/52h2)
+[![](https://img.shields.io/github/package-json/v/OnlyXYL/widdo)](https://github.com/OnlyXYL)
 
 ### Activity
 [![](https://img.shields.io/github/commit-activity/w/OnlyXYL/widdo)](https://github.com/OnlyXYL)
