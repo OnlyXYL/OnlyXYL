@@ -14,11 +14,18 @@
 ### Dependencies
 [![](https://img.shields.io/github/package-json/v/OnlyXYL/widdo)](https://github.com/OnlyXYL)
 
-### Activity
+### GitHub
 [![](https://img.shields.io/github/commit-activity/w/OnlyXYL/widdo)](https://github.com/OnlyXYL)
 
-[![](https://img.shields.io/badge/dynamic/json?color=yellow&label=GitHub&prefix=%20&query=%24.data.totalSubs&suffix=stars&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DOnlyXYL)]()
+[![](https://img.shields.io/badge/dynamic/json?color=yellow&label=stars&prefix=%20&query=%24.data.totalSubs&suffix=stars&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DOnlyXYL)]()
 
+[![](https://img.shields.io/github/v/tag/OnlyXYL/widdo)]()
+
+[![](https://img.shields.io/github/v/release/OnlyXYL/widdo)]()
+
+[![](https://img.shields.io/github/bitbucket/issues/OnlyXYL/widdo)]()
+
+[![](https://img.shields.io/github/issues-closed/OnlyXYL/widdo)]()
 
 <!---
 OnlyXYL/OnlyXYL is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
