@@ -11,11 +11,13 @@
 [![Gitee](https://img.shields.io/badge/gitee-orange?log=gitee)](https://gitee.com/widdo)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/52h2)
 
-### Project Info
+### Dependencies
 [![](https://img.shields.io/depfu/dependencies/github/OnlyXYL/widdo)](https://www.zhihu.com/people/52h2)
 
 ### Activity
 [![](https://img.shields.io/github/commit-activity/w/OnlyXYL/widdo)](https://github.com/OnlyXYL)
+
+[![](https://img.shields.io/badge/dynamic/json?color=yellow&label=GitHub&prefix=%20&query=%24.data.totalSubs&suffix=stars&url=https%3A%2F%2Fapi.spencerwoo.com%2Fsubstats%2F%3Fsource%3Dgithub%26queryKey%3DOnlyXYL)]()
 
 
 <!---
