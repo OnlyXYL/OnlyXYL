@@ -7,8 +7,8 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=OnlyXYL&count_private=true&show_icons=true&theme=radical)
 ### Links
 
-[![GitHub](https://img.shields.io/badge/GitHub-black?logo=github)](https://github.com/OnlyXYL)
-[![Gitee](https://img.shields.io/badge/gitee-red?log=gitee)](https://gitee.com/widdo)
+[![GitHub](https://img.shields.io/badge/GitHub-white?logo=github&logoColor=black)](https://github.com/OnlyXYL)
+[![Gitee](https://img.shields.io/badge/gitee-white?log=gitee&logoColor=red)](https://gitee.com/widdo)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/52h2)
 [![DockerHub](https://img.shields.io/badge/DockerHub-white?logo=Docker)](https://hub.docker.com/repository/docker/xiayaling/widdo)
 
