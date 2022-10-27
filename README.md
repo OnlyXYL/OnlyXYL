@@ -11,8 +11,9 @@
 [![Gitee](https://img.shields.io/badge/gitee-orange?log=gitee)](https://gitee.com/widdo)
 [![知乎](https://img.shields.io/badge/知乎-white?logo=zhihu)](https://www.zhihu.com/people/52h2)
 
-### Dependencies
-[![](https://img.shields.io/github/package-json/v/OnlyXYL/widdo)](https://github.com/OnlyXYL)
+### About
+<img src="https://img.shields.io/badge/language-java-success.svg"/>
+
 
 ### GitHub
 [![](https://img.shields.io/github/stars/OnlyXYL?affiliations=OWNER&style=social)]()
